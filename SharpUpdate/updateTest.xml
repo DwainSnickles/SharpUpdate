@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SharpUpdate>
+	<update appId="TestApp">
+		<version>2.0.0.0</version>
+		<url>https://www.sourcecodedepot.com/update/TestApp.exe</url>
+		<filename>TestApp.exe</filename>
+		<md5>663FB1C64A95CC37B3CC951356C8F529</md5>
+		<description>Initial Update</description>
+		<launchArgs></launchArgs>
+	</update>
+</SharpUpdate>
